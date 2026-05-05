@@ -1,3 +1,5 @@
+![Portada](images/portada.png)
+
 # Policy Brief Interactivo de Indicadores Mineros – Provincia de San Juan
 
 Aplicación HTML interactiva con enfoque mixto: análisis económico-financiero, impacto territorial y agenda de política pública para el sector minero de San Juan.
